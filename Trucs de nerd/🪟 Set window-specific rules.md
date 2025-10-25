@@ -1,0 +1,9 @@
+- Open an app
+- Right-click on the title bar
+- More actions…
+- Configure Special Application Settings…
+- Size & Position
+- - Add Property…
+- ✴️ Position
+- Set the coordinates
+- Be sure to mark _Apply Initially_ or _Force_ to lock it

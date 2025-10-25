@@ -1,0 +1,13 @@
+/* remove borders around callouts */
+.callout {
+  border: none !important;
+  box-shadow: none !important;
+  background-color: transparent !important;
+}
+
+/* remove borders around properties */
+.metadata-container {
+  border: none !important;
+  box-shadow: none !important;
+  background-color: transparent !important;
+}

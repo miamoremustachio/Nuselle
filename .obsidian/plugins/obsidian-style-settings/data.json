@@ -1,0 +1,19 @@
+{
+  "css-banner-settings@@banner-icon-size": 70,
+  "css-banner-settings@@banner-height": 250,
+  "css-banner-settings@@banner-icon-border-radius": "0%",
+  "css-banner-settings@@banner-icon-top": 100,
+  "neo-style@@heading-indicator-off": true,
+  "neo-style@@neo-tabs-off": false,
+  "neo-style@@table-auto-capitalization": false,
+  "neo-style@@heading-color": "headings-color-accent",
+  "neo-style@@accent-affect-bg": false,
+  "neo-style@@no-kanban-styles": false,
+  "shimmering-focus@@alt-colorschemes": "colorscheme-gamma",
+  "shimmering-focus@@angular-shapes": false,
+  "shimmering-focus@@uncolored-bold": false,
+  "shimmering-focus@@no-image-alttext-caption": true,
+  "shimmering-focus@@hide-properties-in-statusbar": false,
+  "shimmering-focus@@no-heading-background": true,
+  "shimmering-focus@@no-lp-heading-level-indicator": false
+}

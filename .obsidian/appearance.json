@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "CSS.Banners",
+    "Properties",
+    "Theme.tweaks",
+    "Theme.Tweaks"
+  ],
+  "cssTheme": "Shimmering Focus",
+  "showRibbon": false
+}

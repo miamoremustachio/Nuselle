@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trucs de nerd/Wimblows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wimblows"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa4cab0dd89d1d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e96aa47724c6f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e13a556ffdbe5f58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29440bf25e9d56ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ass",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c568f7eb35fa7aa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "131ae035686ac5fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e40f5d5ba4111978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4856ebb72ef0147",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trucs de nerd/Wimblows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wimblows"
+            }
+          },
+          {
+            "id": "bac7ca2610c97ef3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a27049d8b99b9d1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6ba742c7aa95eb2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Index.md",
+    "Trucs de nerd/Index.md",
+    "etc/Pièces jointes/Welcome.png",
+    "Trucs de nerd/Arch.md",
+    "Trucs de nerd/🔐 Password.md",
+    "Trucs de nerd/🔕 Disable notifications.md",
+    "Trucs de nerd/🖥️ Stop Edge from creating desktop shortcuts.md",
+    "Trucs de nerd/🖼️ Rebuild icon cache.md",
+    "Trucs de nerd/Fedora.md",
+    "Trucs de nerd/🌐 Disable proxy shit.md",
+    "Trucs de nerd/Wimblows.md",
+    "Trucs de nerd/🪟 Set window-specific rules.md",
+    "Trucs de nerd/🚫 Disable annoying Emoji shortcuts.md",
+    "Trucs de nerd/⚒️ Install the OS.md",
+    "Trucs de nerd/⚙️ Configure the system.md",
+    "Trucs de nerd/🌈 Oh my Zsh.md",
+    "Trucs de nerd/🧩 Extensions.md",
+    "Trucs de nerd/🌐 Network.md",
+    "Trucs de nerd/⌨️ Set the keyboard font.md",
+    "Trucs de nerd/⌨️ Disable Sticky Keys.md",
+    "Trucs de nerd/💽 Mount efi partition.md",
+    "Trucs de nerd/📡 Connect to the internet.md",
+    "Trucs de nerd/🖼️ Fix panel icon issues.md",
+    "Trucs de nerd/🌐 Connect to the internet.md",
+    "Trucs de nerd/💽 Disable AutoPlay.md",
+    "Trucs de nerd/KDE.md",
+    "Trucs de nerd/🔕 Disable notifications shit.md",
+    "Trucs de nerd/Hyprland",
+    "Trucs de nerd/New folder",
+    "Trucs de nerd/KDE",
+    "Trucs de nerd/Gnome",
+    "Trucs de nerd/Wimblows",
+    "Trucs de nerd/Fedora",
+    "Trucs de nerd/Arch",
+    "etc/Pièces jointes/wallhaven-o5p5rl.jpg",
+    "etc/Pièces jointes/letter_by_ajvl_d847iw5.jpg",
+    "Trucs de nerd/Untitled.base",
+    "Nuselle",
+    "etc/pics/wallhaven-exvklr.jpg",
+    "Untitled.canvas",
+    "etc/Pièces jointes/anime-girl-cap-headphones-4k-wallpaper-uhdpaper.com-852@1@m 1.jpg",
+    "etc/Pièces jointes/wallhaven-yxy71k.png",
+    "etc/Pièces jointes/wallhaven-o5p5rl 1.jpg",
+    "etc/Pièces jointes/wallhaven-l81r22.jpg",
+    "etc/Pièces jointes/wallhaven-gpegye.jpg",
+    "etc/Pièces jointes/letter_by_ajvl_d847iw5 1.jpg",
+    "etc"
+  ]
+}
