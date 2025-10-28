@@ -15,5 +15,7 @@
   "shimmering-focus@@no-image-alttext-caption": true,
   "shimmering-focus@@hide-properties-in-statusbar": false,
   "shimmering-focus@@no-heading-background": true,
-  "shimmering-focus@@no-lp-heading-level-indicator": false
+  "shimmering-focus@@no-lp-heading-level-indicator": false,
+  "shimmering-focus@@image-size": 100,
+  "shimmering-focus@@highlight-hue-1": 40
 }

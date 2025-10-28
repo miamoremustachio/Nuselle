@@ -1,5 +1,0 @@
----
-cssclasses:
-  - banner
-  - banner-fade
----

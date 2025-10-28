@@ -11,3 +11,13 @@
   box-shadow: none !important;
   background-color: transparent !important;
 }
+
+/* Anti-Flash Spell™ */
+.is-flashing,
+.is-flashing * {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  animation: none !important;
+  transition: none !important;
+}
