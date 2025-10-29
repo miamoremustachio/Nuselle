@@ -8,14 +8,9 @@ cssclasses:
 
 # 🛠️ Installation
 
-1. [Download](https://archlinux.org/download/) an ISO
-2. Download the signing key from WKD:
-
-```bash
-gpg --auto-key-locate clear,wkd -v --locate-exter nal-key pierre@archlinux.org
-```
-
-3. Create the [[💿 Installation media]]
+1. [Download](https://archlinux.org/download/) an ISO and verify the checksum
+2. [[💿 dd|Create]] the installation medium
+3. Disable secure boot
 4. [[⌨️ Keyboard#Set font|Set]] the keyboard font
 5. [[iwctl|Connect]] to the network
 6. Synchronize package databases:
@@ -28,15 +23,16 @@ pacman -Sy
 8. Create [[Partitioning|partitions]]
 	*(Use [[cfdisk]] to modify partition tables)*
 9. [[Partition formatting|Format]] and [[Mounting|mount]] partitions
-10. Use [[pacstrap]] to install the OS
-11. Generate an [[fstab]] file
-12. Change root into the new system:
+10. Select the [[reflector|mirrors]]
+11. Use [[pacstrap]] to install the OS
+12. Generate an [[fstab]] file
+13. Change root into the new system:
 
 ```bash
 arch-chroot /mnt
 ```
 
-13. Set the time zone:
+14. Set the time zone:
 
 ```bash
 ln -sf /usr/share/zoneinfo/<region>/<city> /etc/localtime
@@ -45,21 +41,10 @@ ln -sf /usr/share/zoneinfo/<region>/<city> /etc/localtime
 hwclock --systohc
 ```
 
-14. Set up systemd-timesyncd to prevent clock drift and ensure accurate time:
-
-```bash
-# uncomment the relevant line in /etc/systemd/timesyncd.conf
-
-# To verify your configuration:
-timedatectl show-timesync --all
-
-# To enable and start it:
-timedatectl set-ntp true
-```
-
-15. Generate [[🌎 Locales|locales]]
-16. Enable [[NetworkManager]]
-17. Set root password:
+15. Set up [[systemd-timesyncd]] to prevent clock drift and ensure accurate time
+16. Generate [[🌎 Locales|locales]]
+17. Enable [[Network management|network manager]]
+18. Set root password:
 
 ```bash
 passwd
@@ -68,18 +53,19 @@ passwd
 > 💡
 It’s also a good idea to lock the root password after setting it by running `passwd -l root`
 
-
-18. Add [[👥 Users|users]]
-19. Exit the chroot environment by typing `exit` or pressing Ctrl+d
-20. Finally, restart the machine by typing `reboot`
+19. Install bootloader (e.g. [[grub]] or [[rEFInd]])
+20. Exit the chroot environment by typing `exit` or pressing Ctrl+d
+21. Finally, restart the machine by typing `reboot`
 
 # 🫧 Post-install steps
 
-- Install [[grub]]
-- [[NetworkManager#🌐 Connect to the internet|Connect]] to the internet
+- Add [[👥 Users|users]]
+- [[Network management#🌐 Connect to the internet|Connect]] to the internet
+
 
 
 [^1]: Sources:
 	[https://wiki.archlinux.org/title/Installation_guide#](https://wiki.archlinux.org/title/Installation_guide#)
+	https://wiki.archlinux.org/title/General_recommendations
 	[https://www.youtube.com/watch?v=c2Y2OHkbE4Y&t=1185s](https://www.youtube.com/watch?v=c2Y2OHkbE4Y&t=1185s)
 	[https://www.youtube.com/watch?v=O28sURKsUdA](https://www.youtube.com/watch?v=O28sURKsUdA)

@@ -1,3 +1,0 @@
-- Run `$ ibus-setup`
-- Go to Emoji tab
-- Clear Emoji annotation shortcuts

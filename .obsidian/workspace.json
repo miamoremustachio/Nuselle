@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88a1abaa5605f160",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b062ea53aa2fdb6d",
+            "id": "0445a5faa9de1bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la Voie Nerdée/la Voie Nerdée.md",
+                "file": "la Voie Nerdée/rEFInd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "la Voie Nerdée"
+              "title": "rEFInd"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la Voie Nerdée/la Voie Nerdée.md",
+                "file": "la Voie Nerdée/rEFInd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for la Voie Nerdée"
+              "title": "Backlinks for rEFInd"
             }
           },
           {
@@ -149,8 +149,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,47 +170,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b062ea53aa2fdb6d",
+  "active": "0445a5faa9de1bbc",
   "lastOpenFiles": [
-    "la Voie Nerdée/MongoDB.md",
+    "la Voie Nerdée/Arch.md",
+    "la Voie Nerdée/🎁 Get any app without MS account.md",
+    "la Voie Nerdée/rEFInd.md",
     "la Voie Nerdée/la Voie Nerdée.md",
+    "la Voie Nerdée/Network management.md",
+    "la Voie Nerdée/🌎 Locales.md",
+    "la Voie Nerdée/systemd-timesyncd.md",
+    "la Voie Nerdée/fstab.md",
+    "la Voie Nerdée/pacstrap.md",
+    "la Voie Nerdée/reflector.md",
+    "la Voie Nerdée/Mounting.md",
+    "la Voie Nerdée/Partition formatting.md",
+    "la Voie Nerdée/Partitioning.md",
+    "la Voie Nerdée/l'Antisèche.md",
+    "la Voie Nerdée/iwctl.md",
+    "la Voie Nerdée/⌨️ Keyboard.md",
+    "la Voie Nerdée/💿 dd.md",
+    "la Voie Nerdée/dd.md",
     "l'Univers.md",
-    "la Voie Nerdée/JavaScript.md",
-    "la Voie Nerdée/🗜️ Convert old configs.md",
+    "la Voie Nerdée/KDE.md",
+    "la Voie Nerdée/🔌 Thunderbolt Firmware.md",
+    "la Voie Nerdée/🔇 Disable annoying changing volume sound.md",
+    "la Voie Nerdée/Wimblows.md",
+    "la Voie Nerdée/🔄 Disable auto updates.md",
+    "la Voie Nerdée/⌨️ Disable Sticky Keys.md",
+    "la Voie Nerdée/🔕 Disable notifications.md",
+    "etc/Pièces jointes/Screenshot 2024-08-13 195911.png",
     "etc/Pièces jointes/eslint.config.mjs",
-    "la Voie Nerdée/📦 npm.md",
-    "la Voie Nerdée/♾️ Event loop.md",
-    "la Voie Nerdée/⛓️‍💥 Non-blocking I／O.md",
     "etc/Pièces jointes/Screenshot 2024-10-20 190325.png",
     "etc/Pièces jointes/Screenshot 2024-10-20 194125.png",
     "etc/Pièces jointes/Node.js-Architecture-Chart.jpg",
     "etc/Pièces jointes/S.jpg",
-    "Non-blocking I/O.md",
     "Non-blocking I",
-    "la Voie Nerdée/📡 Requests.md",
-    "la Voie Nerdée/⌛ Promises.md",
-    "la Voie Nerdée/⏱️ Timers.md",
-    "la Voie Nerdée/⬇️ This.md",
-    "la Voie Nerdée/🔁 Loops.md",
-    "la Voie Nerdée/🧬 Generators.md",
-    "la Voie Nerdée/🔧 Functions.md",
-    "la Voie Nerdée/📇 Map & Set.md",
-    "la Voie Nerdée/🗃️ Arrays.md",
-    "la Voie Nerdée/🗂️ Objects.md",
-    "la Voie Nerdée/🔠 Strings.md",
-    "la Voie Nerdée/🔢 Numbers.md",
-    "la Voie Nerdée/↔️ Comparisons.md",
-    "la Voie Nerdée/⏺️ Types.md",
     "etc/Pièces jointes/Screenshot 2024-10-04 141124.png",
     "etc/Pièces jointes/photo_2023-09-04_22-06-58.jpg",
     "etc/Pièces jointes/fUtR1.png",
     "etc/Pièces jointes/CqutZ.png",
     "etc/Pièces jointes/Screenshot 2024-09-08 093352.png",
-    "etc/Pièces jointes/Screenshot 2024-09-08 093006.png",
     "la Voie Nerdée/JS",
-    "Merde/🏴‍☠️ Yarr.md",
-    "la Voie Nerdée/Arch.md",
-    "la Voie Nerdée/NetworkManager.md",
     "Merde",
     "Trucs de nerd/Hyprland",
     "Trucs de nerd/New folder",

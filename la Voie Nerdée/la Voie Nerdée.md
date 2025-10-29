@@ -16,8 +16,10 @@ cssclasses:
 
 # 🃏 *Logiciels*
 
-[[yt-dlp]] | [[yay]] | [[grub]] | [[🌈 Oh my Zsh]] | [[iwctl]] | [[reflector]] | [[dnf]] | [[pacman]] ([[pacstrap]])
-
+[[yt-dlp]] | [[git]] | [[💿 dd]] | [[🌈 Oh my Zsh]] | [[iwctl]] | [[reflector]]
+[[dnf]] | [[pacman]] ([[pacstrap]]) | [[yay]]
+[[grub]] | [[rEFInd]]
+ 
 # 🀄 *Langues*
 
 [[JavaScript]]
@@ -25,9 +27,10 @@ cssclasses:
 #  🕸️ *Network*
 
 [[OSI model]] | [[Protocols]] | [[IP]]
-[[NetworkManager]] | [[iwctl]]
+[[Network management]] | [[iwctl]]
 
-# *Bases de données*
+# 🗃️ *Bases de données*
+
 [[MongoDB]]
 
 # ♟️ *Mémoire*

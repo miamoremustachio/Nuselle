@@ -1,3 +1,5 @@
+# Gnome
+
  - 🧠 **Smart Auto Move** by [khimaros](https://extensions.gnome.org/accounts/profile/khimaros) 
 	[https://extensions.gnome.org/extension/4736/smart-auto-move/](https://extensions.gnome.org/extension/4736/smart-auto-move/)
 - 😎 **Emoji Copy** by [FelipeFTN](https://extensions.gnome.org/accounts/profile/FelipeFTN) 

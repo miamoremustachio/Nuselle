@@ -1,11 +1,3 @@
-  
-- Verify the PGP signature and compare the checksum:
-
-```bash
-
-gpg --verify signature_file.sig image_file.iso
-```
-
 - Burn image to a USB drive:
 
 ```bash
