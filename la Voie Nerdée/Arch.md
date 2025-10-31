@@ -59,7 +59,7 @@ It’s also a good idea to lock the root password after setting it by running `p
 
 # 🫧 Post-install steps
 
-- Add [[👥 Users|users]]
+- Add [[User adding|users]]
 - [[Network management#🌐 Connect to the internet|Connect]] to the internet
 
 

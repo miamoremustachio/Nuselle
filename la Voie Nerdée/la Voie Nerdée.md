@@ -5,7 +5,6 @@ cssclasses:
 ---
 ![[wallhaven-yxy71k.png|banner]]
 > [!banner-icon] 🚀
-
 # 📜 *Les manuels*
 
 [[Arch]] | [[Fedora]] | [[Wimblows]]
@@ -33,14 +32,21 @@ cssclasses:
 
 [[MongoDB]]
 
+# 💃 *Users et groupes*
+
+[[User adding]]
+
 # ♟️ *Mémoire*
 
 [[Partitioning]] | [[Partition formatting]] | [[Mounting]] ([[Mount efi partition]]) | [[fstab]]
 
+# 🛞 *Histoire*
+
+[[Computers]] | [[Operating systems]] | [[Von Neumann architecture]]
+
 # *Varié*
 
-[[👥 Users]]
-[[🌎 Locales]]
-[[⌨️ Keyboard]]
+[[🌰 Kernel]]
+[[🌎 Locales]] | [[⌨️ Keyboard]]
 [[📥 Auto-update specific package]]
 

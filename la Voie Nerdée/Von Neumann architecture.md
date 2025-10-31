@@ -1,0 +1,1 @@
+A computer architecture where program instructions and data are stored in *the same memory* space.
