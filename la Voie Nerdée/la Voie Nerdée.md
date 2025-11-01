@@ -34,14 +34,14 @@ cssclasses:
 
 # 💃 *Users et groupes*
 
-[[User adding]]
+[[User adding]] | [[sudo]]
 
 # ♟️ *Mémoire*
 
 [[Partitioning]] | [[Partition formatting]] | [[Mounting]] ([[Mount efi partition]]) | [[fstab]]
 [[swap]] | [[swappiness]]
 
-# 🛞 *Histoire*
+# 🪔 *Histoire*
 
 [[Computers]] | [[Operating systems]] | [[Von Neumann architecture]]
 

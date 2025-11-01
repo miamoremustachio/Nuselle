@@ -19,17 +19,17 @@ printenv
 ```bash
 # for the current session:
 export <VARIABLE>=<VALUE>
-
-# permanently:
-
 ```
+
+To define it permanently, add the line above to the `~/.bash_profile` or `~/.zshenv` and reload the shell
 
 - Display a variable:
 ```bash
 echo $VARIABLE
 ```
 
-- Run a command under a modified environment without affecting any global environment variables:
+- Run a command under a modified environment
+  (without affecting any global environment variables):
 ```bash
 env <VARIABLE>=<VALUE> <command>
 ```

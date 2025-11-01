@@ -44,7 +44,7 @@ hwclock --systohc
 15. Set up [[systemd-timesyncd]] to prevent clock drift and ensure accurate time
 16. Generate [[🌎 Locales|locales]]
 17. Enable [[Network management|network manager]]
-18. Set root password:
+18. Set [[Superuser|root]] password:
 
 ```bash
 passwd

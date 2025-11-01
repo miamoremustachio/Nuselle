@@ -10,13 +10,7 @@ useradd -mg users -G wheel,audio,video,storage -s /bin/bash <username>
 passwd <username>
 ```
 
-- Edit visudo:
-
-```bash
-EDITOR=nano visudo
-```
-
-- Uncomment the following line:
+- Edit [[visudo]] and uncomment the following line:
 
 ```bash
 %wheel ALL=(ALL:ALL) ALL
