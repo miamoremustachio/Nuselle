@@ -39,6 +39,7 @@ cssclasses:
 # ♟️ *Mémoire*
 
 [[Partitioning]] | [[Partition formatting]] | [[Mounting]] ([[Mount efi partition]]) | [[fstab]]
+[[swap]] | [[swappiness]]
 
 # 🛞 *Histoire*
 
@@ -47,6 +48,6 @@ cssclasses:
 # *Varié*
 
 [[🌰 Kernel]]
-[[🌎 Locales]] | [[⌨️ Keyboard]]
+[[🌎 Locales]] | [[⌨️ Keyboard]] | [[environment variables]]
 [[📥 Auto-update specific package]]
 
