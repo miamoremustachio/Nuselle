@@ -11,13 +11,20 @@ cssclasses:
 - ⚡ Disable fast startup ✘
 - 🌐 Disable proxy shit ✘
 - 🔕 Disable notifications ✘
-- ⌨️ Disable Sticky Keys
+- ⌨️ Disable Sticky Keys ✘
 
-[[🔄 Disable auto updates]]
+# 🪛 Tools
 
-## **Optional steps**
-[[🖼️ Rebuild icon cache]]
-[[🕖 Make Windows use UTC]]
-[[🎁 Get any app without MS account]]
-[[👓 Fix Blurry text in specific apps]]
-[[🔌 Thunderbolt Firmware]]
+[[winget]]
+[[diskpart]]
+[[Explorer]]
+[[Thunderbolt Firmware]]
+
+# Other
+## 👓 Fix Blurry text in specific apps
+
+1. Find executable file location
+2. _→ Properties_
+3. _→ Compatibility tab_
+4. change High DPI settings
+5. ✓ Override high DPI scaling behavior

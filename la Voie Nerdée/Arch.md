@@ -8,31 +8,32 @@ cssclasses:
 
 # 🛠️ Installation
 
-1. [Download](https://archlinux.org/download/) an ISO and verify the checksum
-2. [[💿 dd|Create]] the installation medium
-3. Disable secure boot
-4. [[⌨️ Keyboard#Set font|Set]] the keyboard font
-5. [[iwctl|Connect]] to the network
-6. Synchronize package databases:
+1. [Download](https://archlinux.org/download/) an ISO and [[GnuPG|verify]] the checksum
+2. Check ISO [[filehash]]
+3. [[💿 dd|Create]] the installation medium
+4. Disable secure boot
+5. [[⌨️ Keyboard#Set font|Set]] the keyboard font
+6. [[iwctl|Connect]] to the network
+7. Synchronize package databases:
 
 ```bash
 pacman -Sy
 ```
 
-7. Use [[timedatectl]] to ensure the system clock is synchronized
-8. Create [[Partitioning|partitions]]
+8. Use [[timedatectl]] to ensure the system clock is synchronized
+9. Create [[Partitioning|partitions]]
 	*(Use [[cfdisk]] to modify partition tables)*
-9. [[Partition formatting|Format]] and [[Mounting|mount]] partitions
-10. Select the [[reflector|mirrors]]
-11. Use [[pacstrap]] to install the OS
-12. Generate an [[fstab]] file
-13. Change root into the new system:
+10. [[Partition formatting|Format]] and [[Mounting|mount]] partitions
+11. Select the [[reflector|mirrors]]
+12. Use [[pacstrap]] to install the OS
+13. Generate an [[fstab]] file
+14. Change root into the new system:
 
 ```bash
 arch-chroot /mnt
 ```
 
-14. Set the time zone:
+15. Set the time zone:
 
 ```bash
 ln -sf /usr/share/zoneinfo/<region>/<city> /etc/localtime
@@ -41,10 +42,10 @@ ln -sf /usr/share/zoneinfo/<region>/<city> /etc/localtime
 hwclock --systohc
 ```
 
-15. Set up [[systemd-timesyncd]] to prevent clock drift and ensure accurate time
-16. Generate [[🌎 Locales|locales]]
-17. Enable [[Network management|network manager]]
-18. Set [[Superuser|root]] password:
+16. Set up [[systemd-timesyncd]] to prevent clock drift and ensure accurate time
+17. Generate [[🌎 Locales|locales]]
+18. Enable [[Network management|network manager]]
+19. Set [[Superuser|root]] password:
 
 ```bash
 passwd
@@ -53,9 +54,9 @@ passwd
 > 💡
 It’s also a good idea to lock the root password after setting it by running `passwd -l root`
 
-19. Install bootloader (e.g. [[grub]] or [[rEFInd]])
-20. Exit the chroot environment by typing `exit` or pressing Ctrl+d
-21. Finally, restart the machine by typing `reboot`
+20. Install bootloader (e.g. [[grub]] or [[rEFInd]])
+21. Exit the chroot environment by typing `exit` or pressing Ctrl+d
+22. Finally, restart the machine by typing `reboot`
 
 # 🫧 Post-install steps
 

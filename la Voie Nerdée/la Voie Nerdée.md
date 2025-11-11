@@ -7,7 +7,7 @@ cssclasses:
 > [!banner-icon] 🚀
 # 📜 *Les manuels*
 
-[[Arch]] | [[Fedora]] | [[Wimblows]]
+[[Arch]] | [[Debian]] | [[Fedora]] | [[Wimblows]]
 
 # 🎴 *Environnements de bureau*
 
@@ -15,10 +15,11 @@ cssclasses:
 
 # 🃏 *Logiciels*
 
-[[yt-dlp]] | [[git]] | [[💿 dd]] | [[🌈 Oh my Zsh]] | [[iwctl]] | [[reflector]]
-[[dnf]] | [[pacman]] ([[pacstrap]]) | [[yay]]
+[[yt-dlp]] | [[git]] | [[💿 dd]] | [[GnuPG]] | [[🌈 Oh my Zsh]] | [[diskpart]] | [[iwctl]] | [[reflector]]
+[[dnf]] | [[pacman]] ([[pacstrap]]) | [[yay]] | [[winget]]
 [[grub]] | [[rEFInd]]
- 
+[[Explorer]]
+
 # 🀄 *Langues*
 
 [[JavaScript]]
@@ -39,6 +40,7 @@ cssclasses:
 # ♟️ *Mémoire*
 
 [[Partitioning]] | [[Partition formatting]] | [[Mounting]] ([[Mount efi partition]]) | [[fstab]]
+[[diskpart]]
 [[swap]] | [[swappiness]]
 
 # 🪔 *Histoire*

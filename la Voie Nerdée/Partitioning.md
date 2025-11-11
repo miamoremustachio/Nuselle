@@ -5,7 +5,7 @@
 3. Swap partition
 4. Home partition _(optional)_
 
-### 📋 Partitions layout example
+## 📋 Partitions layout scheme
 
 | _**Mount point**_ | _**Partition type**_                                                          | _**Suggested size**_                                                          |
 | ----------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
