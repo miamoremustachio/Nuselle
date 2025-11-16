@@ -9,14 +9,6 @@ cssclasses:
 
 ## ⌨️ Change layout switching shortcut
 
-1. _Gnome Tweaks_
-2. _Keyboard_
-3. _Additional Layout Options_
-4. _Switching to another layout_ 
-	✅ Alt+Shift
-
-**OR**
-
 ```bash
 $ gsettings set org.gnome.desktop.wm.keybindings switch-input-source "['<Shift>Alt_L']"
 $ gsettings set org.gnome.desktop.wm.keybindings switch-input-source-backward "['<Alt>Shift_L']"
@@ -34,12 +26,24 @@ gsettings reset org.gnome.Weather locations
 gsettings set org.gnome.desktop.default-applications.terminal exec desired_terminal
 ```
 
+## 📂 Set Files shortcut
+
+```bash
+# Paste this to the custom shortcut command
+nautilus --new-window
+```
+
 ## 🚫 Disable annoying Emoji shortcuts
-- Run `$ ibus-setup`
+- Run `ibus-setup`
 - Go to Emoji tab
 - Clear Emoji annotation shortcuts
 
+## 🪄 Download & Install incompatible extensions
+
+```bash
+gsettings set org.gnome.shell disable-extension-version-validation true
+```
+
 ## Other
 
-- [[🧩 Extensions]]
 - [[🌚 Dark theme]]

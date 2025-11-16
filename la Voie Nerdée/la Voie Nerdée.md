@@ -15,23 +15,25 @@ cssclasses:
 
 # 🃏 *Logiciels*
 
-[[yt-dlp]] | [[git]] | [[💿 dd]] | [[GnuPG]] | [[🌈 Oh my Zsh]] | [[diskpart]] | [[iwctl]] | [[reflector]]
-[[dnf]] | [[pacman]] ([[pacstrap]]) | [[yay]] | [[winget]]
+[[yt-dlp]] | [[git]] | [[💿 dd]] | [[GnuPG]] | [[diskpart]] | [[iwctl]] | [[reflector]]
 [[grub]] | [[rEFInd]]
-[[Explorer]]
 
-# 🀄 *Langues*
+# 🐚 *Shells*
 
-[[JavaScript]]
+[[bash]] | [[🌈 Oh my Zsh]]
+
+# 📦 *gestion des paquets*
+
+[[apt]] | [[dnf]] | [[pacman]] ([[pacstrap]]) | [[yay]] | [[winget]]
 
 #  🕸️ *Network*
 
 [[OSI model]] | [[Protocols]] | [[IP]]
 [[Network management]] | [[iwctl]]
 
-# 🗃️ *Bases de données*
+# 🔒 *Sécurité*
 
-[[MongoDB]]
+[[Keyrings]] | [[passwd]]
 
 # 💃 *Users et groupes*
 
@@ -46,6 +48,14 @@ cssclasses:
 # 🪔 *Histoire*
 
 [[Computers]] | [[Operating systems]] | [[Von Neumann architecture]]
+
+# 🀄 *Langues*
+
+[[JavaScript]]
+
+# 🗃️ *Bases de données*
+
+[[MongoDB]]
 
 # *Varié*
 
