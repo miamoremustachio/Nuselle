@@ -1,3 +1,5 @@
+# pacstrap
+
 - Install essential packages:
 
 ```bash

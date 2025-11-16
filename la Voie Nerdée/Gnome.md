@@ -33,6 +33,11 @@ gsettings set org.gnome.desktop.default-applications.terminal exec desired_termi
 nautilus --new-window
 ```
 
+## 🔥 Enable Nautilus file picker in Firefox
+
+- `about:config`
+- Set `widget.use-xdg-desktop-portal.file-picker` to `1`
+
 ## 🚫 Disable annoying Emoji shortcuts
 - Run `ibus-setup`
 - Go to Emoji tab

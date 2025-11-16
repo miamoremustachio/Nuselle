@@ -14,7 +14,10 @@ cssclasses:
 5. Configure [[sudo]]
 *(Only if you set a root password during the installation process)*
 
+# 🪛 Setup
+
+- Configure [[ufw|Firewall]]
+
 # 👣 Bonus steps
 
-- [[apt#Upgrading to the new format|Convert]] apt sources to the new format
-- Install [VS Code](https://wiki.debian.org/VisualStudioCode)
+- [[apt#🗽 Upgrading to the new format|Convert]] apt sources to the new format

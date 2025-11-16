@@ -25,7 +25,7 @@ pacman -Sy
 	*(Use [[cfdisk]] to modify partition tables)*
 10. [[Partition formatting|Format]] and [[Mounting|mount]] partitions
 11. Select the [[reflector|mirrors]]
-12. Use [[pacstrap]] to install the OS
+12. Use [[pacman#pacstrap|pacstrap]] to install the OS
 13. Generate an [[fstab]] file
 14. Change root into the new system:
 

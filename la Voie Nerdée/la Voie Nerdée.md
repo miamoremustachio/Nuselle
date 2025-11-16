@@ -15,7 +15,7 @@ cssclasses:
 
 # 🃏 *Logiciels*
 
-[[yt-dlp]] | [[git]] | [[💿 dd]] | [[GnuPG]] | [[diskpart]] | [[iwctl]] | [[reflector]]
+[[yt-dlp]] | [[git]] | [[💿 dd]] | [[GnuPG]] | [[diskpart]] | [[iwctl]] | [[reflector]] | [[ufw]]
 [[grub]] | [[rEFInd]]
 
 # 🐚 *Shells*
@@ -24,14 +24,14 @@ cssclasses:
 
 # 📦 *gestion des paquets*
 
-[[apt]] | [[dnf]] | [[pacman]] ([[pacstrap]]) | [[yay]] | [[winget]]
+[[apt]] ([[backports]]) | [[dnf]] | [[pacman]] | [[yay]] | [[winget]]
 
 #  🕸️ *Network*
 
 [[OSI model]] | [[Protocols]] | [[IP]]
-[[Network management]] | [[iwctl]]
+[[Firewall]] | [[Network management]] | [[iwctl]]
 
-# 🔒 *Sécurité*
+# 🗝️ *Sécurité*
 
 [[Keyrings]] | [[passwd]]
 

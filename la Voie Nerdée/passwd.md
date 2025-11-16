@@ -7,6 +7,8 @@ passwd
 sudo passwd <username>
 ```
 
+- It's a good idea to also change the login [[Keyrings|keyring]] password right after changing the user one
+
 ## 🔒 Lock root password
 
 ```bash
