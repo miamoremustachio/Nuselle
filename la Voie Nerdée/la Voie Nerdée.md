@@ -9,6 +9,11 @@ cssclasses:
 
 [[Arch]] | [[Debian]] | [[Fedora]] | [[Wimblows]]
 
+# 🏛️ *La base*
+
+[[🌰 Kernel]] | [[File system]] | [[Environment variables]]
+[[POSIX]]
+
 # 🎴 *Environnements de bureau*
 
 [[Hyprland]] | [[Gnome]] | [[KDE]]
@@ -17,6 +22,7 @@ cssclasses:
 
 [[yt-dlp]] | [[git]] | [[💿 dd]] | [[GnuPG]] | [[diskpart]] | [[iwctl]] | [[reflector]] | [[ufw]]
 [[grub]] | [[rEFInd]]
+[[vlc]]
 
 # 🐚 *Shells*
 
@@ -37,7 +43,7 @@ cssclasses:
 
 # 💃 *Users et groupes*
 
-[[User adding]] | [[sudo]]
+[[User adding]] | [[sudo]] | [[Single user mode]]
 
 # ♟️ *Mémoire*
 
@@ -48,6 +54,7 @@ cssclasses:
 # 🪔 *Histoire*
 
 [[Computers]] | [[Operating systems]] | [[Von Neumann architecture]]
+[[Unix philosophy]]
 
 # 🀄 *Langues*
 
@@ -59,7 +66,5 @@ cssclasses:
 
 # *Varié*
 
-[[🌰 Kernel]]
-[[🌎 Locales]] | [[⌨️ Keyboard]] | [[environment variables]]
-[[📥 Auto-update specific package]]
+[[🌎 Locales]] | [[⌨️ Keyboard]]
 

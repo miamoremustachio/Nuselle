@@ -2,7 +2,7 @@
 
  `~/.bash_profile`
 - Executed only for login interactive shells
-- Useful for [[environment variables]], aliases and functions
+- Useful for [[Environment variables]], aliases and functions
 
 `~/.bashrc`
 - Executed for non-login interactive shells
