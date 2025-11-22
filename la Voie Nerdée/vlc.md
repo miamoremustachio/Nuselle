@@ -1,3 +1,9 @@
+---
+cssclasses:
+  - banner
+  - banner-fade
+---
+![[VLC-media.png|banner]]
 # 🔉 Fix sound stuttering issue
 
  \> Tools

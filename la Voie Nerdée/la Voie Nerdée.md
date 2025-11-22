@@ -12,7 +12,7 @@ cssclasses:
 # 🏛️ *La base*
 
 [[🌰 Kernel]] | [[File system]] | [[Environment variables]]
-[[POSIX]]
+[[POSIX]] | [[Packages]]
 
 # 🎴 *Environnements de bureau*
 
@@ -54,11 +54,12 @@ cssclasses:
 # 🪔 *Histoire*
 
 [[Computers]] | [[Operating systems]] | [[Von Neumann architecture]]
-[[Unix philosophy]]
+[[GNU]] ([[GNU GPL]]) | [[Unix philosophy]]
 
 # 🀄 *Langues*
 
 [[JavaScript]]
+[[Compiling]]
 
 # 🗃️ *Bases de données*
 
@@ -66,5 +67,6 @@ cssclasses:
 
 # *Varié*
 
+[[l'Antisèche]]
 [[🌎 Locales]] | [[⌨️ Keyboard]]
 
