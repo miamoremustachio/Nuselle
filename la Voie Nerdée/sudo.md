@@ -1,10 +1,8 @@
-Allows an authorized user to run a program as another user
-*([[Superuser|superuser]] by default)*
-It temporarily elevates a user's [[Privileges|privileges]] to run a specific command.
+Temporarily elevates an authorized user's [[Privileges|privileges]] to run a program as another user *([[Users#Root (superuser)|superuser]] by default)*
 
 ## 🗝️ Usage
 
-- [[User adding|Add]] user to sudoers:
+- [[Users#User adding|Add]] user to sudoers:
 
 ```bash
 sudo usermod -aG sudo <username>

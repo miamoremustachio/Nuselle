@@ -42,7 +42,7 @@ ln -sf /usr/share/zoneinfo/<region>/<city> /etc/localtime
 hwclock --systohc
 ```
 
-16. Set up [[systemd-timesyncd]] to prevent clock drift and ensure accurate time
+16. Set up [[systemd#timesyncd|systemd-timesyncd]] to prevent clock drift and ensure accurate time
 17. Generate [[🌎 Locales|locales]]
 18. Enable [[Network management|network manager]]
 19. Set [[Superuser|root]] password:
@@ -60,7 +60,7 @@ It’s also a good idea to lock the root password after setting it by running `p
 
 # 🫧 Post-install steps
 
-- Add [[User adding|users]]
+- Add [[Users#User adding|users]]
 - [[Network management#🌐 Connect to the internet|Connect]] to the internet
 
 

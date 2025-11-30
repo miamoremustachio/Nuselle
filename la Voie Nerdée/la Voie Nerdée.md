@@ -12,7 +12,7 @@ cssclasses:
 # 🏛️ *La base*
 
 [[🌰 Kernel]] | [[File system]] | [[Environment variables]]
-[[POSIX]] | [[Packages]]
+[[POSIX]] | [[Packages]] | [[Compiling]]
 
 # 🎴 *Environnements de bureau*
 
@@ -28,7 +28,7 @@ cssclasses:
 
 [[bash]] | [[🌈 Oh my Zsh]]
 
-# 📦 *gestion des paquets*
+# 📦 *Gestion des paquets*
 
 [[apt]] ([[backports]]) | [[dnf]] | [[pacman]] | [[yay]] | [[winget]]
 
@@ -43,7 +43,8 @@ cssclasses:
 
 # 💃 *Users et groupes*
 
-[[User adding]] | [[sudo]] | [[Single user mode]]
+[[Users]] | [[Groups]]
+[[UID]] | [[sudo]] | [[Single user mode]]
 
 # ♟️ *Mémoire*
 
@@ -51,15 +52,9 @@ cssclasses:
 [[diskpart]]
 [[swap]] | [[swappiness]]
 
-# 🪔 *Histoire*
-
-[[Computers]] | [[Operating systems]] | [[Von Neumann architecture]]
-[[GNU]] ([[GNU GPL]]) | [[Unix philosophy]]
-
 # 🀄 *Langues*
 
 [[JavaScript]]
-[[Compiling]]
 
 # 🗃️ *Bases de données*
 
@@ -67,6 +62,5 @@ cssclasses:
 
 # *Varié*
 
-[[l'Antisèche]]
-[[🌎 Locales]] | [[⌨️ Keyboard]]
+[[Histoire]] | [[🌎 Locales]] | [[⌨️ Keyboard]]
 
