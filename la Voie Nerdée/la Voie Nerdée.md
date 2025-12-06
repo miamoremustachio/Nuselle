@@ -3,7 +3,7 @@ cssclasses:
   - banner
   - banner-fade
 ---
-![[wallhaven-yxy71k.png|banner]]
+![[wallhaven-yxy71k (Edited).png|banner]]
 > [!banner-icon] 🚀
 # 📜 *Les manuels*
 
@@ -11,7 +11,7 @@ cssclasses:
 
 # 🏛️ *La base*
 
-[[🌰 Kernel]] | [[File system]] | [[Environment variables]]
+[[🌰 Kernel]] | [[Environment variables]]
 [[POSIX]] | [[Packages]] | [[Compiling]]
 
 # 🎴 *Environnements de bureau*
@@ -28,7 +28,7 @@ cssclasses:
 
 [[bash]] | [[🌈 Oh my Zsh]]
 
-# 📦 *Gestion des paquets*
+# 🥡 *Gestion des paquets*
 
 [[apt]] ([[backports]]) | [[dnf]] | [[pacman]] | [[yay]] | [[winget]]
 
@@ -39,7 +39,8 @@ cssclasses:
 
 # 🗝️ *Sécurité*
 
-[[Keyrings]] | [[passwd]]
+[[Passwords]] | [[Keyrings]] | [[Permissions]]
+[[Hash]] | [[Salting]]
 
 # 💃 *Users et groupes*
 
@@ -48,15 +49,15 @@ cssclasses:
 
 # ♟️ *Mémoire*
 
-[[Partitioning]] | [[Partition formatting]] | [[Mounting]] ([[Mount efi partition]]) | [[fstab]]
-[[diskpart]]
+[[Files]] | [[File system]] | [[Inode]] | [[Symlinks]] | [[Hard & Soft links]]
+[[Partitioning]] | [[Partition formatting]] | [[Mounting]] | [[fstab]] | [[diskpart]]
 [[swap]] | [[swappiness]]
 
 # 🀄 *Langues*
 
 [[JavaScript]]
 
-# 🗃️ *Bases de données*
+# ⚱️ *Bases de données*
 
 [[MongoDB]]
 

@@ -29,4 +29,14 @@ cssclasses:
 sudo aplay -l
 ```
 
+## If the above doesn't help
+
+ \> Tools
+ \> Preferences
+ \> All
+\> Input/Codecs
+\> Advanced
+\> Set *File caching (ms)* and *Disc caching (ms)* to `111`
+ 
+
 

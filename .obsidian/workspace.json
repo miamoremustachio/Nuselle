@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db8499045903cd88",
+        "id": "0fd15c3fd67bc0f7",
         "type": "tabs",
         "children": [
           {
-            "id": "0218543e410d23b3",
+            "id": "37facbfef5c93403",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "la Voie Nerdée/Permissions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Permissions"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "la Voie Nerdée/Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Permissions"
             }
           },
           {
@@ -165,44 +170,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0218543e410d23b3",
+  "active": "37facbfef5c93403",
   "lastOpenFiles": [
-    "la Voie Nerdée/Users.md",
-    "la Voie Nerdée/Groups.md",
+    "la Voie Nerdée/Passwords.md",
     "la Voie Nerdée/la Voie Nerdée.md",
-    "la Voie Nerdée/daemons.md",
-    "la Voie Nerdée/systemd.md",
-    "la Voie Nerdée/Arch.md",
-    "la Voie Nerdée/daemon.md",
-    "la Voie Nerdée/dnf.md",
-    "la Voie Nerdée/root.md",
-    "la Voie Nerdée/sudo.md",
-    "la Voie Nerdée/Single user mode.md",
-    "l'Univers.md",
-    "la Voie Nerdée/UID.md",
-    "la Voie Nerdée/User adding.md",
+    "la Voie Nerdée/Hard & Soft links.md",
+    "la Voie Nerdée/Symlinks.md",
+    "etc/Pièces jointes/hard-link-and-soft-link-in-linux_thumbnail.webp",
+    "la Voie Nerdée/Inode.md",
     "la Voie Nerdée/Histoire.md",
+    "etc/Pièces jointes/wallhaven-yxy71k (Edited).png",
+    "la Voie Nerdée/fstab.md",
+    "la Voie Nerdée/diskpart.md",
+    "la Voie Nerdée/Debian.md",
+    "la Voie Nerdée/Files.md",
+    "la Voie Nerdée/Unix philosophy.md",
+    "la Voie Nerdée/File system.md",
+    "Merde/📥 Auto-update specific package.md",
+    "Merde/HFHR support form.md",
+    "la Voie Nerdée/Mount efi partition.md",
+    "la Voie Nerdée/Mounting.md",
+    "la Voie Nerdée/Arch.md",
+    "la Voie Nerdée/Permissions.md",
+    "l'Univers.md",
+    "etc/Pièces jointes/fb1a898a-8440-430e-8ffa-3612d0555e6f_1768x1288.png",
+    "etc/Pièces jointes/0259-linux-permissions-copy.png",
+    "la Voie Nerdée/Groups.md",
+    "la Voie Nerdée/Users.md",
+    "la Voie Nerdée/Keyrings.md",
+    "la Voie Nerdée/Salting.md",
+    "la Voie Nerdée/vlc.md",
+    "la Voie Nerdée/Operating systems.md",
     "etc/Pièces jointes/1662047508649 (Edited).jpg",
     "etc/Pièces jointes/1662047508649.jpg",
     "etc/Pièces jointes/linus-torvalds-finger.jpg",
-    "la Voie Nerdée/Compiling.md",
-    "la Voie Nerdée/l'Antisèche.md",
-    "la Voie Nerdée/File system.md",
-    "la Voie Nerdée/grub.md",
-    "la Voie Nerdée/Environment variables.md",
-    "la Voie Nerdée/vlc.md",
-    "la Voie Nerdée/🌰 Kernel.md",
-    "la Voie Nerdée/Operating systems.md",
-    "la Voie Nerdée/GNU.md",
     "etc/Pièces jointes/VLC-media.png",
     "etc/Pièces jointes/VLC-Media-Player-A-Complete-Beginners-Guide-1-.png",
-    "la Voie Nerdée/Hyprland.md",
-    "la Voie Nerdée/Gnome.md",
     "etc/Pièces jointes/Blog---Unix.png",
-    "etc/Pièces jointes/gnu-2.png",
-    "etc/Pièces jointes/GPLv3_Logo.png",
-    "etc/Pièces jointes/GQLCKqJbMAA_7U3.jpg",
-    "etc/Pièces jointes/j2k4k1j6f1x71.jpg",
     "etc/Pièces jointes/eslint.config.mjs",
     "Non-blocking I",
     "la Voie Nerdée/JS",
