@@ -1,0 +1,2 @@
+*PulseAudio* is a general purpose sound server intended to run as a middleware between your applications and your hardware devices.
+It talks to ALSA, taking control of its single audio stream, and allows other applications to talk to PulseAudio instead.

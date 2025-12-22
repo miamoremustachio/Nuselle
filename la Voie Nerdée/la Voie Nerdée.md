@@ -11,18 +11,13 @@ cssclasses:
 
 # 🏛️ *La base*
 
-[[🌰 Kernel]] | [[Environment variables]]
-[[POSIX]] | [[Packages]] | [[Compiling]]
+[[🌰 Kernel]] | [[Environment variables]] | [[Standard streams]]
+[[POSIX]] | [[Packages]] | [[Compiling]] | [[Daemons]]
+[[Bootloader]] ([[grub]] | [[rEFInd]])
 
 # 🎴 *Environnements de bureau*
 
 [[Hyprland]] | [[Gnome]] | [[KDE]]
-
-# 🃏 *Logiciels*
-
-[[yt-dlp]] | [[git]] | [[💿 dd]] | [[GnuPG]] | [[diskpart]] | [[iwctl]] | [[reflector]] | [[ufw]]
-[[grub]] | [[rEFInd]]
-[[vlc]]
 
 # 🐚 *Shells*
 
@@ -31,16 +26,18 @@ cssclasses:
 # 🥡 *Gestion des paquets*
 
 [[apt]] ([[backports]]) | [[dnf]] | [[pacman]] | [[yay]] | [[winget]]
+[[reflector]]
 
 #  🕸️ *Network*
 
 [[OSI model]] | [[Protocols]] | [[IP]]
-[[Firewall]] | [[Network management]] | [[iwctl]]
+[[Firewall]] ([[ufw]]) | [[Network management]] | [[iwctl]]
 
 # 🗝️ *Sécurité*
 
 [[Passwords]] | [[Keyrings]] | [[Permissions]]
 [[Hash]] | [[Salting]]
+[[GnuPG]]
 
 # 💃 *Users et groupes*
 
@@ -50,8 +47,13 @@ cssclasses:
 # ♟️ *Mémoire*
 
 [[Files]] | [[File system]] | [[Inode]] | [[Symlinks]] | [[Hard & Soft links]]
-[[Partitioning]] | [[Partition formatting]] | [[Mounting]] | [[fstab]] | [[diskpart]]
+[[Partitioning]] | [[Partition formatting]] | [[Mounting]] | [[fstab]] | [[diskpart]] | [[💿 dd]]
 [[swap]] | [[swappiness]]
+
+# 🎭 *Multimédia*
+
+[[Audio]] ([[PulseAudio]], [[PipeWire]]) | [[Video]]
+[[yt-dlp]] | [[vlc]] | [[mpd]]
 
 # 🀄 *Langues*
 
@@ -63,5 +65,5 @@ cssclasses:
 
 # *Varié*
 
-[[Histoire]] | [[🌎 Locales]] | [[⌨️ Keyboard]]
+[[git]] | [[Histoire]] | [[🌎 Locales]] | [[⌨️ Keyboard]]
 

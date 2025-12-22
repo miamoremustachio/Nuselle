@@ -74,6 +74,17 @@ apt install -t trixie-backports <package>
 aptitude install <package>/trixie-backports
 ```
 
+# 🔧 Troubleshooting
+
+## 📥 Fetch failures
+
+If apt refuses to install/update a package due to 404 error, refreshing package information cache may helps:
+
+```bash
+sudo rm -r /var/lib/apt/lists
+```
+
+Then `sudo apt update` will recreate the lists directory on the next run.
 
 
 

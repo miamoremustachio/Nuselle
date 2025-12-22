@@ -13,6 +13,9 @@ Reload the shell after making changes in config files:
 source ~/.bashrc # for example
 ```
 
+# ✒️ Scripting
+
+[[Exit codes]]
 
 
 [^1]: Sources:
