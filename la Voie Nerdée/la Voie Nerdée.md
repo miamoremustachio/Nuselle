@@ -7,13 +7,16 @@ cssclasses:
 > [!banner-icon] 🚀
 # 📜 *Les manuels*
 
-[[Arch]] | [[Debian]] | [[Fedora]] | [[Wimblows]]
+[[Arch]] | [[Debian]] | [[Wimblows]]
 
 # 🏛️ *La base*
 
-[[🌰 Kernel]] | [[Environment variables]] | [[Standard streams]]
-[[POSIX]] | [[Packages]] | [[Compiling]] | [[Daemons]]
-[[Bootloader]] ([[grub]] | [[rEFInd]])
+[[Kernel]]
+[[Devices]]
+[[Processes]] ([[top]] | [[Nice]] | [[Daemons]])
+[[Environment variables]] | [[Standard streams]] | [[System calls]]
+[[POSIX]] | [[Packages]] | [[Compiling]]
+[[grub]] | [[rEFInd]]
 
 # 🎴 *Environnements de bureau*
 
@@ -21,11 +24,11 @@ cssclasses:
 
 # 🐚 *Shells*
 
-[[bash]] | [[🌈 Oh my Zsh]]
+[[bash]] | [[zsh]]
 
 # 🥡 *Gestion des paquets*
 
-[[apt]] ([[backports]]) | [[dnf]] | [[pacman]] | [[yay]] | [[winget]]
+[[apt]] ([[backports]]) | [[dnf]] | [[pacman]] | [[winget]]
 [[reflector]]
 
 #  🕸️ *Network*
@@ -44,10 +47,14 @@ cssclasses:
 [[Users]] | [[Groups]]
 [[UID]] | [[sudo]] | [[Single user mode]]
 
+# 🏷️ *Les fichiers*
+
+[[Files]] | [[File system]] ([[VFS]]) | [[File system structure]]
+[[Inode]] | [[Symlinks]] | [[Hard & Soft links]]
+
 # ♟️ *Mémoire*
 
-[[Files]] | [[File system]] | [[Inode]] | [[Symlinks]] | [[Hard & Soft links]]
-[[Partitioning]] | [[Partition formatting]] | [[Mounting]] | [[fstab]] | [[diskpart]] | [[💿 dd]]
+[[Partitioning]] | [[Mounting]] | [[diskpart]] | [[💿 dd]]
 [[swap]] | [[swappiness]]
 
 # 🎭 *Multimédia*
@@ -65,5 +72,5 @@ cssclasses:
 
 # *Varié*
 
-[[git]] | [[Histoire]] | [[🌎 Locales]] | [[⌨️ Keyboard]]
+[[git]] | [[Histoire]]
 

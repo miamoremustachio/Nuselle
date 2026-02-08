@@ -49,7 +49,7 @@ Third-party software and packages
 
 ### `/proc`
 
-Virtual filesystem providing detailed information about system [[processes]] and [[🌰 Kernel|kernel]]
+Virtual filesystem providing detailed information about system [[processes]] and [[kernel]]
 
 ## `/root`
 

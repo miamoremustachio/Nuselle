@@ -30,10 +30,10 @@
 # *LINUX*
 ## 1991, Community contributors
 
-🐧 A family of open-source Unix-like operating systems based on Linux [[🌰 Kernel|kernel]]
+🐧 A family of open-source Unix-like operating systems based on Linux [[Kernel|kernel]]
 
 - Was designed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds "Linus Torvalds")
 - Widely used on servers and supercomputers
 - While originally developed for [[x86]] based personal [[Computers|computers]], it has since been ported to an extensive range of platforms and devices, including PCs, workstations, mainframes and embedded systems
 - Most of the user-space tools & utilities for Linux provided by the [[GNU|GNU Project]], which lead to the ongoing [debate](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy) over whether the OS should be referred to as *Linux* or *GNU/Linux*
-- Popular Linux distributions include [[Debian]], [[Fedora]], [[Arch|Arch Linux]] and [Ubuntu](https://ubuntu.com/)
+- Popular Linux distributions include [[Debian]], [Fedora](https://www.fedoraproject.org/), [[Arch|Arch Linux]] and [Ubuntu](https://ubuntu.com/)

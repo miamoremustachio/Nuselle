@@ -1,9 +1,14 @@
-An *exit code*, also known as an *exit status*, is a numerical value returned by a command or script to indicate the outcome of its execution.
+An *exit code* (also known as an *status code*) is a numerical value returned by a command or script to indicate the outcome of its execution.
 
-The exit code `0` generally indicates a successful result; anything other than `0` is considered a failure.
+Code `0` generally indicates a successful result; anything other than `0` is considered an error.
 
-- Get the exit status of the previous command:
+The `?` environment variable contains info about the exit status of the previous command.
 
-```bash
-echo $?
-```
+# 🔀 Condition chaining
+
+| *Operator* | *Name*    | *Meaning*                                             |
+| ---------- | --------- | ----------------------------------------------------- |
+| `&&`       | AND       | executes only if the previous command is a success    |
+| `︱︱`       | OR        | executes only if the previous command is a failure    |
+| `;`        | Separator | executes regardless of status of the previous command |
+

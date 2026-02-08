@@ -1,7 +1,6 @@
 In Linux, input and output operations between a program and its environment are managed through standard *I/O streams*.
 
 There are 3 types of I/O connections:
-
 ## standard input (*stdin*)
 
 - A stream which program reads data from
@@ -19,12 +18,6 @@ There are 3 types of I/O connections:
 
 ![[standard-stream.png]]
 
-# ⏲️ Status
-
-When a command is run on Linux, it will return a *status code*.
-A success status will always be `0`.
-Any other number would mean an error or something else.
-
 # 🚏 Redirection
 
 | *Operator* | *Meaning*                                                 |
@@ -37,15 +30,6 @@ Any other number would mean an error or something else.
 | `<<`       | input data from another input (line by line)              |
 | `<<<`      | input data from a string                                  |
 | `︱`        | Pipe to another command                                   |
-
-# 🔀 Condition chaining
-
-| *Operator* | *Name*    | *Meaning*                                             |
-| ---------- | --------- | ----------------------------------------------------- |
-| `&&`       | AND       | executes only if the previous command is a success    |
-| `︱︱`       | OR        | executes only if the previous command is a failure    |
-| `;`        | Separator | executes regardless of status of the previous command |
-
 # 🫖 tee
 
 To write the standard input to both standard output and one or more files, use `tee` command:

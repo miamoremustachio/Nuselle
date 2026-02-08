@@ -1,5 +1,5 @@
 An *environment variable* is a named object that contains data used by one or more applications.
-They provide a simple way to share configuration settings between multiple applications and processes in Linux.
+They provide a simple way to share configuration settings between multiple applications and [[processes]] in Linux.
 
 ## A few key points to keep in mind
 
@@ -21,7 +21,7 @@ printenv
 export <VARIABLE>=<VALUE>
 ```
 
-To define it permanently, add the line above to the `~/.bash_profile` or `~/.zshenv` and reload the shell
+To define it permanently, add the line above to the `~/.bash_profile` or `~/.zprofile` and reload the shell
 
 - Display a variable:
 ```bash

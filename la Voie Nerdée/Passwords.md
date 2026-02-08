@@ -22,7 +22,7 @@ sudo passwd <username>
 passwd -l <username>
 
 # to check if its locked:
-sudo grep <username> /etc/shadow
+sudo exigrep <username> /etc/shadow
 
 # If a line beginning with `!` or a `*` symbols after a username it signalize that the account is disabled;
 # Any other value would indicate a working password

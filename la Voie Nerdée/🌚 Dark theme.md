@@ -1,13 +1,3 @@
-# Gnome
-
-- Install Gnome Themes
-
-```bash
-sudo dnf in gnome-themes-extra
-```
-
-- Gnome Tweaks >> Appearance >> Legacy applications
-
 # Hyprland
 ## 🧙‍♂️ GTK (GNOME apps):
 

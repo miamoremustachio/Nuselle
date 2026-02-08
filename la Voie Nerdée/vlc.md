@@ -20,9 +20,9 @@ cssclasses:
 
 *finally:*
 
- \> Tools
- \> Preferences
- \> All
+\> Tools
+\> Preferences
+\> All
 \> Input/Codecs
 \> Advanced
 \> Set *File caching (ms)* and *Disc caching (ms)* to `50`
