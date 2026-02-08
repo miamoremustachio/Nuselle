@@ -3,7 +3,7 @@ cssclasses:
   - banner
   - banner-fade
 ---
-![[wallhaven-o5p5rl 1.jpg|banner]]
+![[wallhaven-o5p5rl.jpg|banner]]
 > [!banner-icon] 💥
 # ✅ Checklist
 

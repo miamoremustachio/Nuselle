@@ -3,7 +3,7 @@ cssclasses:
   - banner
   - banner-fade
 ---
-![[letter_by_ajvl_d847iw5 1.jpg|banner]]
+![[letter_by_ajvl_d847iw5.jpg|banner]]
 > [!banner-icon] 🐾
 # 🛠️ Setting up
 
