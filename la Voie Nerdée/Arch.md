@@ -53,9 +53,14 @@ mount --mkdir /dev/<efi_system_partition> /mnt/boot/efi
 swapon /dev/<swap_partition>
 ```
 
-12. Select the [[reflector|mirrors]]
-13. Use [[pacman#pacstrap|pacstrap]] to install the OS
-14. Generate an fstab file:
+12. Update the mirror list:
+
+```bash
+reflector --verbose -p http,https --sort -l 30 --fastest 10 --save /etc/pacman.d/mirrorlist
+```
+
+12. Use [[pacman#pacstrap|pacstrap]] to install the OS
+13. Generate an fstab file:
 
 ```bash
 genfstab -U /mnt >> /mnt/etc/fstab

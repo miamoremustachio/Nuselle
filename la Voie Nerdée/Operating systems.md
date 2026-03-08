@@ -30,7 +30,7 @@
 # *LINUX*
 ## 1991, Community contributors
 
-🐧 A family of open-source Unix-like operating systems based on Linux [[Kernel|kernel]]
+🐧 A family of open-source Unix-like operating systems based on Linux kernel
 
 - Was designed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds "Linus Torvalds")
 - Widely used on servers and supercomputers

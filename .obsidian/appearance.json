@@ -4,7 +4,10 @@
     "CSS.Banners",
     "Properties",
     "Theme.tweaks",
-    "Theme.Tweaks"
+    "Banners",
+    "Multi.Column",
+    "Theme.Tweaks",
+    "Theme tweaks"
   ],
   "cssTheme": "Shimmering Focus",
   "showRibbon": false

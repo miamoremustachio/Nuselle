@@ -8,7 +8,7 @@ cssclasses:
 *The GNU Project* is an open-source programming project started by [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) in 1983.
 
 Its goal is to give users freedom and control in use of their computers by giving everyone the rights to freely run, modify and distribute the software.
-GNU software grants these rights in [[GNU GPL|its license]].
+GNU software grants these rights in [its license](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 Most of the programs used in [[Operating systems#*LINUX*|Linux]] environment are written within the GNU project.
 It includes a comprehensive set of free software tools for Unix-like operating systems, such as GCC (GNU Compiler Collection), [[bash]], [[grub|GRUB]], [[Emacs]] and many others.

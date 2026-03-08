@@ -1,5 +1,5 @@
 *Passwords* in Linux are stored and managed using secure cryptographic techniques to ensure the confidentiality and integrity of user credentials.
-The process involves several steps, including password [[Hash|hashing]], [[Salting|salting]], and storage in a secure file (`/etc/shadow`).
+The process involves several steps, including password [[hashing]], [[Salting|salting]], and storage in a secure file (`/etc/shadow`).
 
 All user passwords are converted into a unique hash using a one-way function, thus it cannot be reversed to obtain the original password.
 

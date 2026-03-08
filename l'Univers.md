@@ -5,5 +5,6 @@ cssclasses:
 ---
 ![[Welcome.png|banner]]
 > [!banner-icon] 🌙
-# 🚀 [[la Voie Nerdée]]
-# [[d'Andromède]]
+# 🔭 [[la Voie Nerdée]]
+### 🪐 [[Grand Nuage de Pingouin]]
+### 🛸 [[Petit Nuage de Pingouin]]
