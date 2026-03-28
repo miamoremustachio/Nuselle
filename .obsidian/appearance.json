@@ -7,7 +7,12 @@
     "Banners",
     "Multi.Column",
     "Theme.Tweaks",
-    "Theme tweaks"
+    "Theme tweaks",
+    "properties",
+    "tiny-tweaks",
+    "banners",
+    "main-dashboard",
+    "dashboard"
   ],
   "cssTheme": "Shimmering Focus",
   "showRibbon": false

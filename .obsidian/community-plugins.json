@@ -3,5 +3,6 @@
   "templater-obsidian",
   "homepage",
   "omnisearch",
-  "quickadd"
+  "quickadd",
+  "obsidian-view-mode-by-frontmatter"
 ]

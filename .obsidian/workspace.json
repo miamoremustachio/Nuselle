@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a92d8c7ae5a8cca5",
+        "id": "785818ac64cdf58a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d558ddf2138e407",
+            "id": "67e714a307e87922",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la Voie Nerdée/Grand Nuage de Pingouin.md",
+                "file": "l'Univers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Nuage de Pingouin"
-            }
-          },
-          {
-            "id": "347eb68b2694d14f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "etc/Callouts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Callouts"
-            }
-          },
-          {
-            "id": "61289058ad38a962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la Voie Nerdée/Grand Nuage de Pingouin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grand Nuage de Pingouin"
+              "title": "l'Univers"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la Voie Nerdée/Grand Nuage de Pingouin.md",
+                "file": "etc/Callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Grand Nuage de Pingouin"
+              "title": "Backlinks for Callouts"
             }
           },
           {
@@ -199,43 +170,46 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "61289058ad38a962",
+  "active": "67e714a307e87922",
   "lastOpenFiles": [
-    "etc/Pièces jointes/45rtv6q24n5.jpg",
-    "la Voie Nerdée/la Voie Nerdée.md",
+    "dashboard.md",
+    "l'Univers.md",
     "etc/Callouts.md",
-    "la Voie Nerdée/Grand Nuage de Pingouin.md",
+    "la Voie Nerdée/Linumx.md",
+    "main dashboard.md",
+    "la Voie Nerdée/Daemons.md",
+    "la Voie Nerdée/dnf.md",
+    "la Voie Nerdée/More Linumx.md",
+    "la Voie Nerdée/ufw.md",
+    "la Voie Nerdée/mpd.md",
+    "la Voie Nerdée/pacman.md",
+    "la Voie Nerdée/la Voie Nerdée.md",
+    "la Voie Nerdée/Hyprland.md",
+    "la Voie Nerdée/Gnome.md",
+    "la Voie Nerdée/KDE.md",
+    "la Voie Nerdée/Processes.md",
+    "la Voie Nerdée/Debian.md",
+    "la Voie Nerdée/apt.md",
+    "etc/PJ/wallhaven-yxy71k.png",
+    "etc/PJ/wallhaven-yxy71k (Edited).png",
+    "etc/PJ/wallhaven-o5p5rl.jpg",
+    "etc/PJ/wallhaven-gpegye.jpg",
+    "etc/PJ/standard-stream.png",
+    "etc/PJ/photo_2023-09-04_22-06-58.jpg",
+    "etc/PJ/photo-1619410283995-43d9134e7656.jpg",
+    "etc/PJ/osi_model_transport_layer_4.png",
+    "etc/PJ/osi_model_session_layer_5.png",
+    "etc/PJ/osi_model_presentation_layer_6.png",
+    "etc/PJ/eslint.config.mjs",
+    "etc/PJ",
     "la Voie Nerdée/test.md",
     "la Voie Nerdée/🗜️ Convert old configs.md",
     "la Voie Nerdée/Devices.md",
-    "l'Univers.md",
-    "la Voie Nerdée/Petit Nuage de Pingouin.md",
-    "la Voie Nerdée/Processes.md",
     "la Voie Nerdée/Arch.md",
-    "etc/Pièces jointes/45rtv6q24n5 (Edited).jpg",
-    "etc/Pièces jointes/1662047508649.jpg",
-    "etc/Pièces jointes/761356774688.jpg",
-    "etc/Pièces jointes/761356774688 (Edited).jpg",
     "la Voie Nerdée/PulseAudio.md",
     "la Voie Nerdée/📥 Auto-update package.md",
     "la Voie Nerdée/reflector.md",
-    "la Voie Nerdée/Gnome.md",
-    "la Voie Nerdée/Hyprland.md",
     "la Voie Nerdée/🌚 Dark theme.md",
-    "la Voie Nerdée/KDE.md",
-    "la Voie Nerdée/🪟 Set window-specific rules.md",
-    "la Voie Nerdée/🖼️ Fix panel icon issues.md",
-    "la Voie Nerdée/GnuPG.md",
-    "la Voie Nerdée/Wimblows.md",
-    "la Voie Nerdée/Compiling.md",
-    "la Voie Nerdée/Salting.md",
-    "la Voie Nerdée/MongoDB.md",
-    "la Voie Nerdée/yt-dlp.md",
-    "etc/Pièces jointes/1038784 (Edited).jpg",
-    "etc/Pièces jointes/1038784.jpg",
-    "etc/Pièces jointes/wp15876227-funny-linux-wallpapers.jpg",
-    "etc/Pièces jointes/84136.jpg",
-    "etc/Pièces jointes/complete-dns-lookup-and-webpage-query.webp",
     "etc/Pièces jointes/eslint.config.mjs",
     "Non-blocking I",
     "la Voie Nerdée/JS",
@@ -244,8 +218,6 @@
     "Trucs de nerd/New folder",
     "Trucs de nerd/KDE",
     "Trucs de nerd/Gnome",
-    "Trucs de nerd/Wimblows",
-    "Trucs de nerd/Fedora",
     "Untitled.canvas"
   ]
 }

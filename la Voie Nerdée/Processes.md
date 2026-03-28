@@ -34,26 +34,22 @@ When a child process finishes execution, it becomes a *zombie* until its parent 
 There are various [[system calls]] which control the process execution:
 
 ### fork()
-
 - Create a new process by duplicating the calling process
 
 ### exec()
-
 - Replace the current shell process with a new command process
 
 ### exit()
-
 - Terminate the process
 - Frees the memory that process was using
 - Closes file descriptors
 
 ### wait()
-
 - Suspend the execution of a process
 - Retrieve the [[Exit codes|exit status]] of the last process it waited for
 
+> [!example]- Flow scheme
 ![[Screenshot From 2026-01-29 22-06-41.png|400]]
-
 
 
 

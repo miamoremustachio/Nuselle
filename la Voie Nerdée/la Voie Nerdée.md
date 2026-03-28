@@ -28,6 +28,6 @@ cssclasses:
 [[Kernel architecture]] | [[Von Neumann architecture]]
 
 
->[!info]- Linux-related stuff
-> • [[Grand Nuage de Pingouin|here]]
-> • and [[Petit Nuage de Pingouin|there]]
+>[!info]- Linux stuff
+> • [[Linumx]]
+> • [[More Linumx]]

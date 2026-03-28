@@ -19,10 +19,6 @@ sha512sum --check --ignore-missing <sum_file> # same for sha256sum, md5sum etc.
 5. Configure [[sudo]]
 *(Only if you set a root password during the installation process)*
 
-# 🪛 Setup
-
-- Configure [[ufw|Firewall]]
-
 # 👣 Bonus steps
 
 - [[apt#🗽 Upgrading to the new format|Convert]] apt sources to the new format

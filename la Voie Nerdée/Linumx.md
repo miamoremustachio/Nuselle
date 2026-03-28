@@ -5,7 +5,7 @@ cssclasses:
 ---
 ![[45rtv6q24n5.jpg|banner]]
 > [!banner-icon] 🪐
-# 🥀 *Fondamentales* 
+# 🥀 *Fondamentales*
 
 [[Kernel]]
 [[POSIX]] | [[Devices]] | [[Compiling]]
@@ -15,10 +15,6 @@ cssclasses:
 
 [[Processes]]
 [[Nice]] | [[Signals]] | [[Daemons]]
-
-# 🎴 *Environnements de bureau*
-
-[[Hyprland]] | [[Gnome]] | [[KDE]]
 
 # 🐚 *Shells*
 
