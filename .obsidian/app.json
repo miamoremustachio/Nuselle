@@ -2,5 +2,8 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "etc/Pièces jointes",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "showIndentGuide": false,
+  "propertiesInDocument": "hidden"
 }

@@ -2,26 +2,28 @@
 cssclasses:
   - banner
   - banner-fade
+  - dashboard
+obsidianUIMode: preview
 ---
 ![[wallhaven-yxy71k (Edited).png|banner]]
 > [!banner-icon] 🔭
-# 📜 *Les manuels*
+# 📜 Les manuels
 
 [[Arch]] | [[Debian]] | [[Wimblows]]
 
-# 🀄 *Langues*
+# 🀄 Langues
 
 [[JavaScript]] | [[git]]
 
-# ⚱️ *Bases de données*
+# ⚱️ Bases de données
 
 [[MongoDB]]
 
-# 🕸️ *Réseau informatique*
+# 🕸️ Réseau informatique
 
 [[Protocols]] | [[OSI model]]
 
-# 🪔 *Histoire*
+# 🪔 Histoire
 
 [[Computers]]
 [[Operating systems]]

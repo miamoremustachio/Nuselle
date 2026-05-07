@@ -2,6 +2,7 @@
 cssclasses:
   - banner
   - banner-fade
+  - dashboard
 ---
 ![[Welcome.png|banner]]
 > [!banner-icon] 🌙

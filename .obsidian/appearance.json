@@ -8,11 +8,10 @@
     "Multi.Column",
     "Theme.Tweaks",
     "Theme tweaks",
-    "properties",
-    "tiny-tweaks",
     "banners",
     "main-dashboard",
-    "dashboard"
+    "dashboard",
+    "tiny-tweaks"
   ],
   "cssTheme": "Shimmering Focus",
   "showRibbon": false

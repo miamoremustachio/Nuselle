@@ -10,12 +10,6 @@
   box-shadow: none !important;
 }
 
-/* .markdown-source-view.mod-cm6 .callout:hover {
-  border: none !important;
-  box-shadow: none !important;
-  background-color: transparent !important;
-} */
-
 /* remove borders around properties */
 .metadata-container {
   border: none !important;
@@ -24,10 +18,27 @@
 }
 
 /* remove link underlines */
-a:link {
+.markdown-rendered .internal-link,
+.cm-s-obsidian span.cm-hmd-internal-link,
+.markdown-source-view.mod-cm6 .cm-underline {
   text-decoration: none !important;
-  /* transition: 0.7s ease !important; */
 }
+
+/* prettify hovering */
+a:hover {
+  text-decoration: none !important;
+  transition: 0.5s ease !important;
+}
+
+/* make all headers italic (reading mode) */
+/* .markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6 {
+  font-style: italic;
+} */
 
 /* Anti-Flash Spell™ */
 .is-flashing,

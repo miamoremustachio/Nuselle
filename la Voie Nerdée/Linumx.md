@@ -2,54 +2,60 @@
 cssclasses:
   - banner
   - banner-fade
+  - dashboard
+obsidianUIMode: preview
 ---
 ![[45rtv6q24n5.jpg|banner]]
 > [!banner-icon] 🪐
-# 🥀 *Fondamentales*
+# 🥀 Fondamentales
 
-[[Kernel]]
-[[POSIX]] | [[Devices]] | [[Compiling]]
-[[Environment variables]] | [[Standard streams]] | [[System calls]]
+- [[Kernel]]
+- [[POSIX]]
+- [[Devices]]
+- [[Compiling]]
+- [[Environment variables]]
+- [[Standard streams]]
+- [[System calls]]
 
-# ⚗️ *Un processus*
+# ⚗️ Un processus
 
 [[Processes]]
 [[Nice]] | [[Signals]] | [[Daemons]]
 
-# 🐚 *Shells*
+# 🐚 Shells
 
 [[bash]] | [[zsh]]
 
-# 🥡 *Gestion des paquets*
+# 🥡 Gestion des paquets
 
 [[Packages]]
 [[apt]] ([[backports]]) | [[dnf]] | [[pacman]]
 
-# 🪽 *L'amorçage*
+# 🪽 L'amorçage
 
 [[grub]] | [[rEFInd]]
 
-# 🗝️ *Sécurité*
+# 🗝️ Sécurité
 
 [[Passwords]] | [[Keyrings]] | [[Permissions]]
 [[Firewall]]
 
-# 💃 *Users et groupes*
+# 💃 Users et groupes
 
 [[Users]] | [[Groups]]
 [[UID]] | [[sudo]] | [[Single user mode]]
 
-# 🏷️ *les Fichiers*
+# 🏷️ les Fichiers
 
 [[Files]] | [[File system]] ([[VFS]]) | [[File system structure]]
 [[Inode]] | [[Symlinks]] | [[Hard & Soft links]]
 
-# ♟️ *Mémoire*
+# ♟️ Mémoire
 
 [[Partitioning]] | [[Mounting]]
 [[swap]] | [[swappiness]]
 
-# 🎭 *Multimédia*
+# 🎭 Multimédia
 
 [[Audio]] ([[PulseAudio]], [[PipeWire]]) | [[Video]]
 
