@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d68ecfca91fd6a87",
+        "id": "ced00439586f4356",
         "type": "tabs",
         "children": [
           {
-            "id": "b8928299e1982a81",
+            "id": "ee7528147a8a7b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la Voie Nerdée/la Voie Nerdée.md",
+                "file": "Memoria/Index.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "la Voie Nerdée"
-            }
-          },
-          {
-            "id": "edfe0f8cbc103dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la Voie Nerdée/Linumx.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Linumx"
-            }
-          },
-          {
-            "id": "cd656d886d3775dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "la Voie Nerdée/More Linumx.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "More Linumx"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:HDD-SSD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "la Voie Nerdée/Linumx.md"
+                "file": "Memoria/Index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Linumx"
+              "title": "File properties for Index"
             }
           }
         ],
@@ -229,54 +198,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "edfe0f8cbc103dfc",
+  "active": "ee7528147a8a7b3c",
   "lastOpenFiles": [
-    "la Voie Nerdée/More Linumx.md",
-    "la Voie Nerdée/Linumx.md",
-    "la Voie Nerdée/la Voie Nerdée.md",
-    "la Voie Nerdée/Operating systems.md",
-    "la Voie Nerdée/KDE.md",
-    "dashboard.md",
-    "la Voie Nerdée/top.md",
-    "la Voie Nerdée/Thunderbolt Firmware.md",
-    "l'Univers.md",
-    "la Voie Nerdée/💿 dd.md",
-    "la Voie Nerdée/Arch.md",
+    "Memoria/media/Memoria.png",
+    "Memoria/media/Memoria (alt).png",
+    "la Voie Nerdée/Index.md",
+    "la Voie Nerdée/media/1038784.jpg",
+    "la Voie Nerdée/media/761356774688.jpg",
+    "la Voie Nerdée/media/66f52ee3d736ec8f772c31f6_668f9ab9dfc5ed35e5e1ac07_UNIX_20principles.png",
+    "la Voie Nerdée/media/1662047508649.jpg",
+    "la Voie Nerdée/media/anime-girl-cap-headphones-4k-wallpaper-uhdpaper.com-852@1@m.jpg",
+    "la Voie Nerdée/media/arch-linux-debian-ubuntu-os-tan-hd-wallpaper-a08cf34c2bf7ce38232f4be61e4bc266.jpg",
+    "la Voie Nerdée/media/Blog---Unix.png",
+    "la Voie Nerdée/media/complete-dns-lookup-and-webpage-query.webp",
+    "la Voie Nerdée/media/CqutZ.png",
+    "Memoria/Index.md",
+    "la Zone Rouge/Index.md",
+    "la Voie Nerdée/Standard streams.md",
+    "la Voie Nerdée/Single user mode.md",
+    "la Voie Nerdée/Users.md",
     "la Voie Nerdée/Unix philosophy.md",
-    "la Voie Nerdée/UID.md",
     "la Voie Nerdée/Von Neumann architecture.md",
     "la Voie Nerdée/Wimblows.md",
-    "la Voie Nerdée/ufw.md",
-    "la Voie Nerdée/TCP.md",
-    "la Voie Nerdée/UDP.md",
-    "la Voie Nerdée/Users.md",
-    "etc/Callouts.md",
-    "main dashboard.md",
-    "la Voie Nerdée/Daemons.md",
-    "la Voie Nerdée/dnf.md",
-    "la Voie Nerdée/mpd.md",
-    "la Voie Nerdée/pacman.md",
-    "la Voie Nerdée/Hyprland.md",
-    "etc/PJ/wallhaven-yxy71k.png",
-    "etc/PJ/wallhaven-yxy71k (Edited).png",
-    "etc/PJ/wallhaven-o5p5rl.jpg",
-    "etc/PJ/wallhaven-gpegye.jpg",
-    "etc/PJ/standard-stream.png",
-    "etc/PJ/photo_2023-09-04_22-06-58.jpg",
-    "etc/PJ/photo-1619410283995-43d9134e7656.jpg",
-    "etc/PJ/osi_model_transport_layer_4.png",
-    "etc/PJ/osi_model_session_layer_5.png",
-    "etc/PJ/osi_model_presentation_layer_6.png",
-    "etc/PJ/eslint.config.mjs",
-    "etc/PJ",
-    "etc/Pièces jointes/eslint.config.mjs",
-    "Non-blocking I",
-    "la Voie Nerdée/JS",
-    "Merde",
-    "Trucs de nerd/Hyprland",
-    "Trucs de nerd/New folder",
-    "Trucs de nerd/KDE",
-    "Trucs de nerd/Gnome",
+    "la Voie Nerdée/winget.md",
+    "la Voie Nerdée/yt-dlp.md",
+    "la Voie Nerdée/zsh.md",
+    "l'Univers.md",
+    "la Voie Nerdée/Linux.md",
+    "Memoria/Helios 101.md",
+    "la Zone Rouge/Loretta.md",
+    "la Zone Rouge/Thérèse.md",
+    "la Zone Rouge/Hélène.md",
+    "la Zone Rouge/Joséphine.md",
+    "la Zone Rouge/Scooters.base",
+    "la Zone Rouge/media",
+    "la Zone Rouge",
+    "la Zone rouge",
+    "La Zone Rouge",
+    "Memoria/UD90.md",
+    "Memoria/MZALQ256HBJD-00BL2.md",
+    "Memoria/momentus 7200.4.md",
+    "Memoria/Ultra Luxe.md",
+    "Memoria/U366.md",
+    "Memoria/V-Cut.md",
+    "Memoria/USB.base",
+    "Memoria/HDD-SSD.base",
+    "Memoria/Untitled.base",
+    "la Merde/templates",
+    "la Merde/media/templates",
     "Untitled.canvas"
   ]
 }

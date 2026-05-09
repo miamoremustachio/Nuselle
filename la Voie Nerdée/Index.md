@@ -5,11 +5,18 @@ cssclasses:
   - dashboard
 obsidianUIMode: preview
 ---
-![[wallhaven-yxy71k (Edited).png|banner]]
+![[la Voie Nerdée.png|banner]]
 > [!banner-icon] 🔭
 # 📜 Les manuels
 
-[[Arch]] | [[Debian]] | [[Wimblows]]
+- [[Arch]]
+>[!info]- Linux stuff
+> • [[Linux]]
+> • [[More Linux]]
+- [[Debian]]
+- [[Wimblows]]
+
+
 
 # 🀄 Langues
 
@@ -28,8 +35,3 @@ obsidianUIMode: preview
 [[Computers]]
 [[Operating systems]]
 [[Kernel architecture]] | [[Von Neumann architecture]]
-
-
->[!info]- Linux stuff
-> • [[Linumx]]
-> • [[More Linumx]]

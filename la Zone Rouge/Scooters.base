@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.inFolder("la Zone Rouge")
+    - file.hasTag("Scooter")
+views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - model
+      - mileage
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.pic
+    imageFit: contain
+    imageAspectRatio: 0.75
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("la Zone Rouge")
+        - file.hasTag("Scooter")

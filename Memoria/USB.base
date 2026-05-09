@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.inFolder("Memoria")
+    - file.hasTag("USB")
+views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - brand
+      - capacity
+      - usage
+    sort:
+      - property: file.ctime
+        direction: ASC
+    imageFit: contain
+    imageAspectRatio: 0.65
+    cardSize: 220
+    image: note.pic
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - brand
+      - capacity
+      - interface
+      - usage
+      - purchase date
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.name: 122
+      note.interface: 113
+      note.usage: 284

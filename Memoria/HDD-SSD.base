@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.inFolder("Memoria")
+    - file.hasTag("HDD/SSD")
+views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - brand
+      - capacity
+      - interface
+      - usage
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.pic
+    imageFit: contain
+    imageAspectRatio: 1.3
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - brand
+      - capacity
+      - interface
+      - purchase date
+      - usage

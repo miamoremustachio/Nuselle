@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "ddd": "text",
+    "capacity": "number",
+    "usage": "multitext",
+    "purchase date": "date"
+  }
+}
