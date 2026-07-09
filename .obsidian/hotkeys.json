@@ -8,7 +8,8 @@
     },
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "Enter"
     }
@@ -31,15 +32,6 @@
     }
   ],
   "global-search:open": [],
-  "omnisearch:show-modal": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Enter"
-    }
-  ],
   "homepage:open-homepage": [
     {
       "modifiers": [
@@ -90,6 +82,14 @@
         "Mod"
       ],
       "key": "\\"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
     }
   ]
 }

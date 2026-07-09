@@ -7,5 +7,5 @@ obsidianUIMode: preview
 ---
 ![[Merde.jpg|banner]]
 > [!banner-icon] 🧻
-
+- [[🏴‍☠️ Yarr]]
 - [[Callouts]]

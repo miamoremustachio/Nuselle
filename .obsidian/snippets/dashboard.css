@@ -1,6 +1,14 @@
-/* 
-Provided by TfT Hacker. Learn more at https://tfthacker.com
-Modified by Nuska
+/*
+╭─ Smashboard++ ───────────────────────────────────────────────────────────────────────
+│
+╰─➤ Dashboard++ snippet for Obsidian, slightly modified
+
+🪶 Credits
+• Source code by TfT Hacker › https://github.com/TfTHacker
+• Fork by Nuska › https://github.com/miamoremustachio
+
+📜 User manual
+• https://tfthacker.com/article-obsidian-dashboardplusplus2022
 */
 
 .dashboard {
@@ -34,28 +42,50 @@ Modified by Nuska
   font-family: "Montserrat Extra Light Italic", "Recursive S", sans-serif !important;
 }
 
-/* Get rid of the parent bullet */
-.dashboard div.markdown-preview-section>div>ul>li>.list-bullet {
-  display: none !important;
-}
-
-/* Remove the indentation guide lines */
-/* .dashboard.markdown-rendered.show-indentation-guide li>ul::before,
+/* Remove indentation guide lines */
+.dashboard.markdown-rendered.show-indentation-guide li>ul::before,
 .dashboard.markdown-rendered.show-indentation-guide li>ol::before {
   display: none;
-} */
+}
 
-/* Columns properties */
+/* Columns */
 .dashboard div>ul {
   list-style: none;
   display: flex;
-  column-gap: 50px;
   flex-flow: row wrap;
+  gap: 15px;
+  column-gap: 50px;
 }
 
+/* Topics*/
 .dashboard div>ul>li {
   min-width: 200px;
   width: 15%;
+}
+
+/* Subtopics */
+.dashboard div>ul>li>ul {
+  margin-left: 3px;
+  margin-top: 8px;
+}
+
+/* Embedded images in columns */
+.dashboard div>ul>li .internal-embed img,
+.dashboard div>ul>li .media-embed img,
+.dashboard div>ul>li .image-embed img {
+  margin-bottom: 12px;
+}
+
+.dashboard div>ul>li .internal-embed img:hover,
+.dashboard div>ul>li .media-embed img:hover,
+.dashboard div>ul>li .image-embed img:hover {
+  transform: scale(1.07);
+  transition: 0.3s ease;
+}
+
+/* Get rid of the parent bullet */
+.dashboard div.markdown-preview-section>div>ul>li>.list-bullet {
+  display: none !important;
 }
 
 /* Dataview support */

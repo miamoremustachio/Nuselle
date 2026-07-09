@@ -5,7 +5,7 @@ cssclasses:
 ---
 ![[letter_by_ajvl_d847iw5.jpg|banner]]
 > [!banner-icon] 🐾
-# 🛠️ Setting up
+# 🛠️ Set up
 
 ## ⌨️ Change layout switching shortcut
 
@@ -23,7 +23,8 @@ gsettings reset org.gnome.Weather locations
 ## 📟 Set default terminal
 
 ```bash
-gsettings set org.gnome.desktop.default-applications.terminal exec desired_terminal
+gsettings set org.gnome.desktop.default-applications.terminal exec kitty
+#for example
 ```
 
 ## 📂 Set Files shortcut

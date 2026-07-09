@@ -1,11 +1,12 @@
-*Swap space* is a a substitute for physical memory that allows the [[Operating systems|OS]] to temporarily move inactive memory pages from RAM to a designated area on the hard drive.
+*Swap space* is a a substitute for physical memory that allows the OS to temporarily move inactive memory pages from RAM to a designated area on the hard drive.
 It ensures the OS to run even when RAM is full, preventing system crashes & slowdowns.
 
 The data interchange process is called *swapping*, the rate and assertiveness of which are determined by a parameter called *[[swappiness]]*.
 
 ## Increase/Decrease Swap Space
 
-> ⚠️ It is highly recommend to work with partitions only inside the live USB to prevent data lose and corruption
+>[!warning] Note
+>It is highly recommend to work with partitions only inside the live USB to prevent data lose and corruption
 
 - Check existing swap space:
 ```bash

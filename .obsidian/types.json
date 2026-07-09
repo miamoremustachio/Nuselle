@@ -6,6 +6,7 @@
     "ddd": "text",
     "capacity": "number",
     "usage": "multitext",
-    "purchase date": "date"
+    "purchase date": "date",
+    "date": "date"
   }
 }

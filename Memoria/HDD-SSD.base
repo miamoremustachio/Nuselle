@@ -26,3 +26,6 @@ views:
       - interface
       - purchase date
       - usage
+    sort:
+      - property: file.ctime
+        direction: ASC

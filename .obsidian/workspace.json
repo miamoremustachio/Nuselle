@@ -4,16 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "ced00439586f4356",
+        "id": "dc0a37ef2c8a78b4",
         "type": "tabs",
         "children": [
           {
-            "id": "ee7528147a8a7b3c",
+            "id": "e36445473091255f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoria/Index.md",
+                "file": "la Voie Nerdée/Debian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Debian"
+            }
+          },
+          {
+            "id": "945f50f2539308db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la Voie Nerdée/Linux.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "efa2dcaedd703de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la Voie Nerdée/Index.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
@@ -21,8 +51,54 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "79f4f1c076191331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "l'Univers.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "l'Univers"
+            }
+          },
+          {
+            "id": "2878e3b59727dbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la Voie Nerdée/apt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "apt"
+            }
+          },
+          {
+            "id": "0389c32590d2850f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la Merde/Callouts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Callouts"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la Voie Nerdée/Linumx.md",
+                "file": "la Voie Nerdée/apt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linumx"
+              "title": "Backlinks for apt"
             }
           },
           {
@@ -170,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Memoria/Index.md"
+                "file": "la Voie Nerdée/apt.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Index"
+              "title": "File properties for apt"
             }
           }
         ],
@@ -189,8 +265,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
@@ -198,54 +272,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ee7528147a8a7b3c",
+  "active": "2878e3b59727dbfc",
   "lastOpenFiles": [
-    "Memoria/media/Memoria.png",
-    "Memoria/media/Memoria (alt).png",
-    "la Voie Nerdée/Index.md",
-    "la Voie Nerdée/media/1038784.jpg",
-    "la Voie Nerdée/media/761356774688.jpg",
-    "la Voie Nerdée/media/66f52ee3d736ec8f772c31f6_668f9ab9dfc5ed35e5e1ac07_UNIX_20principles.png",
-    "la Voie Nerdée/media/1662047508649.jpg",
-    "la Voie Nerdée/media/anime-girl-cap-headphones-4k-wallpaper-uhdpaper.com-852@1@m.jpg",
-    "la Voie Nerdée/media/arch-linux-debian-ubuntu-os-tan-hd-wallpaper-a08cf34c2bf7ce38232f4be61e4bc266.jpg",
-    "la Voie Nerdée/media/Blog---Unix.png",
-    "la Voie Nerdée/media/complete-dns-lookup-and-webpage-query.webp",
-    "la Voie Nerdée/media/CqutZ.png",
-    "Memoria/Index.md",
-    "la Zone Rouge/Index.md",
-    "la Voie Nerdée/Standard streams.md",
-    "la Voie Nerdée/Single user mode.md",
-    "la Voie Nerdée/Users.md",
-    "la Voie Nerdée/Unix philosophy.md",
-    "la Voie Nerdée/Von Neumann architecture.md",
-    "la Voie Nerdée/Wimblows.md",
-    "la Voie Nerdée/winget.md",
-    "la Voie Nerdée/yt-dlp.md",
-    "la Voie Nerdée/zsh.md",
+    "la Merde/Callouts.md",
     "l'Univers.md",
+    "la Voie Nerdée/apt.md",
+    "la Voie Nerdée/Index.md",
+    "la Voie Nerdée/des Logiciels.md",
     "la Voie Nerdée/Linux.md",
-    "Memoria/Helios 101.md",
-    "la Zone Rouge/Loretta.md",
-    "la Zone Rouge/Thérèse.md",
-    "la Zone Rouge/Hélène.md",
-    "la Zone Rouge/Joséphine.md",
+    "la Voie Nerdée/Debian.md",
+    "la Voie Nerdée/↔️ Comparisons.md",
+    "la Voie Nerdée/Arch.md",
+    "la Voie Nerdée/🧬 Generators.md",
+    "la Voie Nerdée/🔠 Strings.md",
+    "la Voie Nerdée/🔁 Loops.md",
+    "la Voie Nerdée/📇 Map & Set.md",
+    "la Voie Nerdée/📥 Auto-update package.md",
+    "la Voie Nerdée/💿 dd.md",
+    "la Voie Nerdée/⛓️‍💥 Non-blocking I／O.md",
+    "la Voie Nerdée/♾️ Event loop.md",
+    "la Voie Nerdée/🔧 Functions.md",
+    "la Voie Nerdée/🗜️ Convert old configs.md",
+    "la Voie Nerdée/🔢 Numbers.md",
+    "la Voie Nerdée/⏺️ Types.md",
+    "la Voie Nerdée/🗃️ Arrays.md",
+    "la Voie Nerdée/📦 npm.md",
+    "la Voie Nerdée/📡 Requests.md",
+    "la Voie Nerdée/🌎 Locales.md",
+    "la Voie Nerdée/⏱️ Timers.md",
+    "media/9da.jpg",
+    "Memoria/media/transmemory-u202_img_prd005.webp",
+    "Memoria/media/Memoria.png",
+    "Memoria/media/Memoria (1).png",
+    "Memoria/media/Memoria (2).png",
+    "media/18knnhbrjode1.png",
+    "media",
+    "la Voie Nerdée/media/Δέλτα.jpg",
+    "la Voie Nerdée/media/Γάμμα.jpg",
+    "la Voie Nerdée/media/Βήτα.jpg",
+    "la Voie Nerdée/media/t_r_i_x_i_e_by_vbastv_dacfjkj.jpg",
     "la Zone Rouge/Scooters.base",
     "la Zone Rouge/media",
     "la Zone Rouge",
     "la Zone rouge",
     "La Zone Rouge",
-    "Memoria/UD90.md",
-    "Memoria/MZALQ256HBJD-00BL2.md",
-    "Memoria/momentus 7200.4.md",
-    "Memoria/Ultra Luxe.md",
-    "Memoria/U366.md",
-    "Memoria/V-Cut.md",
     "Memoria/USB.base",
     "Memoria/HDD-SSD.base",
     "Memoria/Untitled.base",
     "la Merde/templates",
-    "la Merde/media/templates",
     "Untitled.canvas"
   ]
 }

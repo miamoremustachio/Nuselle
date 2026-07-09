@@ -5,7 +5,7 @@ brand: Transcend
 capacity: 32
 interface: USB 2.0
 usage:
-  - "[archive]"
+  - "[unused]"
 purchase date:
 pic: "[[50047067b.webp]]"
 ---

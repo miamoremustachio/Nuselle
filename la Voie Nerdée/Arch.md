@@ -83,7 +83,7 @@ hwclock --systohc
 ```
 
 17. Set up systemd-timesyncd to prevent clock drift and ensure accurate time
-18. Generate [[🌎 Locales|locales]]:
+18. Generate locales:
 - Edit `/etc/locale.gen` and uncomment all the needed UTF-8 locales
 - Generate locales:
 

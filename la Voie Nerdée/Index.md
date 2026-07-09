@@ -7,31 +7,37 @@ obsidianUIMode: preview
 ---
 ![[la Voie Nerdée.png|banner]]
 > [!banner-icon] 🔭
-# 📜 Les manuels
+# Systèmes d'exploitation
 
-- [[Arch]]
->[!info]- Linux stuff
+- ## [[Linux]]
+	- [[Arch]]
+	- [[Debian]]
+- >[!info]- 📜 Les manuels
 > • [[Linux]]
-> • [[More Linux]]
-- [[Debian]]
-- [[Wimblows]]
-
 
 
 # 🀄 Langues
 
-[[JavaScript]] | [[git]]
+- ## [[JavaScript]]
 
 # ⚱️ Bases de données
 
-[[MongoDB]]
+- ## [[MongoDB]]
 
 # 🕸️ Réseau informatique
 
-[[Protocols]] | [[OSI model]]
+- [[Protocols]] | [[OSI model]]
 
 # 🪔 Histoire
 
-[[Computers]]
-[[Operating systems]]
-[[Kernel architecture]] | [[Von Neumann architecture]]
+- [[Computers]]
+- [[Operating systems]]
+- [[Kernel architecture]]
+- [[Von Neumann architecture]]
+
+# Varié
+
+- [[Salting]]
+- [[winget]]
+- [[diskpart]]
+- [[Thunderbolt Firmware]]

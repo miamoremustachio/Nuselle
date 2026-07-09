@@ -10,6 +10,7 @@ obsidianUIMode: preview
 # 🥀 Fondamentales
 
 - [[Kernel]]
+- [[Packages]]
 - [[POSIX]]
 - [[Devices]]
 - [[Compiling]]
@@ -24,17 +25,21 @@ obsidianUIMode: preview
 - [[Signals]]
 - [[Daemons]]
 
-# 🐚 Shells
+# wqewrty
 
-- [[bash]]
-- [[zsh]]
+- ## 🐚 Shells
+	- [[bash]]
+	- [[zsh]]
+	- [[fish]]
 
-# 🥡 les Paquets
+- ## 🎴 DE
+	- [[Hyprland]]
+	- [[Gnome]]
+	- [[KDE]]
 
-- [[Packages]]
-- [[apt]] ([[backports]])
-- [[dnf]] 
-- [[pacman]]
+- ## 🥡 Packages
+	- [[apt]] ([[backports]])
+	- [[pacman]]
 
 # 🪽 L'amorçage
 
@@ -50,8 +55,7 @@ obsidianUIMode: preview
 
 # 💃 Users et groupes
 
-- [[Users]]
-- [[Groups]]
+- [[Users]] | [[Groups]]
 - [[UID]]
 - [[sudo]]
 - [[Single user mode]]
@@ -69,14 +73,30 @@ obsidianUIMode: preview
 
 - [[Partitioning]]
 - [[Mounting]]
-- [[swap]]
-- [[swappiness]]
+- [[swap]] | [[swappiness]]
 
 # 🎭 Multimédia
 
-- [[Audio]]
+- ## 🔉 Audio
+	- [[Audio]]
+	- [[ALSA]]
 	- [[PulseAudio]]
 	- [[PipeWire]]
-- [[Video]]
+- ## 📺 Video
+	- [[Video]]
 
+# 🧩 des Logiciels
+
+- [[yt-dlp]]
+- [[mpd]]
+- [[💿 dd]] 
+- [[ufw]]
+- [[top]]
+- [[GnuPG]]
+- [[git]]
+
+# Varié
+
+- [[GNU]]
+- [[Unix philosophy]]
 

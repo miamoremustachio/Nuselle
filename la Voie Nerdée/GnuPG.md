@@ -24,7 +24,8 @@ gpg --list-keys
 gpg --recv-keys <ID> # or 0x<long_ID>
 ```
 
-> ⚠️ It's recommended to use the long key ID or the full fingerprint when receiving a key. Using a short ID may encounter collisions (see [fake keys found in the wild](https://lore.kernel.org/lkml/20160815153401.9EC2BADC2C@smtp.postman.i2p/) for such example)
+>[!warning] Note
+>It's recommended to use the long key ID or the full fingerprint when receiving a key. Using a short ID may encounter collisions (see [fake keys found in the wild](https://lore.kernel.org/lkml/20160815153401.9EC2BADC2C@smtp.postman.i2p/) for such example)
 
 - Remove key:
 ```bash
